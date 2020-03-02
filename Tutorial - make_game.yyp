@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "ba64b412-9687-4d76-8aff-db05baf266c4",
+            "Value": {
+                "id": "14f31a70-8aa3-4d7a-b2d5-1451e8d4b5d5",
+                "resourcePath": "scripts\\make_game\\make_game.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c367c1ba-9e7a-48a5-b8a1-84947a36ebba",
             "Value": {
                 "id": "50125c00-021c-41a1-8bf5-36bc89074fc1",
