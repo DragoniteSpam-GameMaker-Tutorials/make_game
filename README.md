@@ -1,6 +1,6 @@
 # make_game()
 
-This is a gimmick. Don't actually do anything in this.
+This is a gimmick. Don't do anything like this in an actual game.
 
 **Meseta:** [Twitter](https://twitter.com/mesetatron)
 
